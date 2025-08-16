@@ -1,1 +1,1 @@
-# Awesome-ASO-Book-Course-App-Store-Optimization
+# Awesome ASO Book & Course: App Store Optimization
